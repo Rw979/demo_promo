@@ -32,9 +32,10 @@ p {
   font-size:20px;
   line-height: 40px;
   position:absolute;
-  top:145%;
-  left:65%;
-  transform: translate(-145%, -65%);
+  top:170%;
+  left:82%;
+  transform: translate(-170%, -82%);
+  width: 600px
 }
 
 
